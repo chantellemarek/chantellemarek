@@ -4,7 +4,7 @@ I'm currently working as a Web Developer Intern. The company I intern with is tr
 
 #### 📫 How to reach me: 
 1. Find me on Linkedin.com
-Linkedin : https://www.linkedin.com/in/chantelle-i-marek/ 
+Linkedin : https://www.linkedin.com/in/chantellemarek/ 
 2. Email Me! 
 chantellemarek@gmail.com
 #### 😄 Pronouns: 
