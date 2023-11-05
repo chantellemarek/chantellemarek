@@ -1,18 +1,13 @@
 ### Hi there 👋
 My name is Chantelle Marek!
-I'm currently working as a Web Developer Intern. The company I intern with is trying to improve the gender pay gap. Not only that, but trying to empower women. My current career interest is trying to become a Web Developer. Due to that, I am learning more about CSS, HTML, JavaScript. While I have no experience with React, I am reading React Explained by Zac Gordon to learn the language.
+I am a Jr Developer and a current Senior at LU, where I'm a Computer Science major with an emphasis in Cybersecurity. Some of the projects you find on my profile are from my time in tech school, where I found a love for writing code.
 
-#### 📫 How to reach me: 
-1. Find me on Linkedin.com
-Linkedin : https://www.linkedin.com/in/chantellemarek/ 
-2. Email Me! 
-chantellemarek@gmail.com
 #### 😄 Pronouns: 
 She/Her
 #### ⚡ Fun fact: 
-A fun fact about me is I enjoy kayaking.
+When I am not busy with school and work, I like to kayak and tinker with Arduino.
 #### 🌱 I’m currently learning
-I am trying to improve my web development and WordPress skills.
+I am learning more about T-SQL, PowerBI, SSRS, and interacting with Project Owners.
 
 <!--
 **chantellemarek/chantellemarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
